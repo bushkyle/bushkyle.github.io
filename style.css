@@ -129,6 +129,16 @@ a:hover.current{
   padding: 12px;
 }
 
+.about h1 a{
+    color: #333333;
+    text-decoration: none;
+}
+
+.about h1 a:hover{
+    color: #FF4d4d;
+    text-decoration: none;
+}
+
 .about h2{
   border-top: 3px solid #333333;
   font-size: 23px;
